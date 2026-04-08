@@ -1,7 +1,7 @@
 {
   "version": "5",
   "dialect": "mysql",
-  "id": "df66ccc8-a575-4d1f-b531-dd5498919507",
+  "id": "efe2496d-e242-430d-a959-fc6e6fbcbe44",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "tables": {
     "schools_table": {
